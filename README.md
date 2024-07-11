@@ -1,5 +1,5 @@
 Título del Proyecto
-Proyecto BackEnd para el curso de Java de CaC.
+BackEnd para el curso de Java de CaC.
 
 Descripción
 Solo la parte backend, permite cargar registros y ver registros en una base de datos.
